@@ -1,7 +1,7 @@
 const main = {
   name: 'Stefany Gonzalez Leon',
   mail: 'stefanygonzalezleon11@gmail.com',
-  img: 'https://sivanesh-s.github.io/images/sivanesh1.jpeg',
+  img: 'https://avatars.githubusercontent.com/u/90220369?v=4',
   // Must make it like that typable like old portfolio version
   role: ['Web Designer'],
   // https://ionicons.com/
