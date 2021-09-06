@@ -23,7 +23,7 @@ const main = {
     },
     {
       name: 'Mail',
-      iconName: 'mail-outline'
+      iconName: 'mail-outline',
       link: 'mailto:stefanygonzalezleon11@gamil.com'
     }
   ],
